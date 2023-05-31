@@ -9,5 +9,7 @@ public class test1101 {
 
     public static void main(String[] args) {
 
+        System.out.println("saaa");
+
     }
 }
