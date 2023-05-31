@@ -7,9 +7,5 @@ public class test1101 {
         this.eag = eag;
     }
 
-    public static void main(String[] args) {
 
-        System.out.println("saaa");
-
-    }
 }
