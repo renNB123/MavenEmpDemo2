@@ -9,6 +9,7 @@ import java.io.Serializable;
 *@date 创建时间: 2023年4月13日下午5:42:58
 */
 //tianjiagesha
+//我也不知道啊
 public class Dep implements Serializable{
 private Integer depid;
 private String depname;
