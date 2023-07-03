@@ -3,11 +3,12 @@ package com.po;
 import java.io.Serializable;
 
 /**
-*@author ×÷Õß:ÈÎÔØ¹
+*@author ä½œè€…:ä»»å¾³æ¯“
 *
 *
-*@date ´´½¨Ê±¼ä: 2023Äê4ÔÂ13ÈÕÏÂÎç5:42:58
+*@date åˆ›å»ºæ—¶é—´: 2023å¹´4æœˆ13æ—¥ä¸‹åˆ5:42:58
 */
+//tianjiagesha
 public class Dep implements Serializable{
 private Integer depid;
 private String depname;
